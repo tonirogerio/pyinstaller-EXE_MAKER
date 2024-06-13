@@ -1,4 +1,5 @@
 Script simples feito em Pyqt6 e Pyinstaller para criar arquivo .exe
+
 Busque seu main.py
 Busque seu icone.ico
 Clique em Create EXE
